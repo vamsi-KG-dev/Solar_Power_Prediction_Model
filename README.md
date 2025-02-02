@@ -84,5 +84,6 @@ The final model can be deployed as an API or integrated into real-time systems t
    ```bash
    git clone <repository-url>
 
-pip install -r requirements.txt
-streamlit run dep.py
+   pip install -r requirements.txt
+   
+   streamlit run dep.py
